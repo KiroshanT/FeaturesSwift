@@ -3,5 +3,8 @@
     <pages>
         <page name='Integer Multiples'/>
         <page name='Meet a Criterion'/>
+        <page name='Where Keyword'/>
+        <page name='Swap Two Variables'/>
+        <page name='Remove the init()'/>
     </pages>
 </playground>
