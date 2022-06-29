@@ -1,1 +1,2 @@
 # FeaturesSwift
+# allSatisfy()
